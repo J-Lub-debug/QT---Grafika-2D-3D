@@ -1,0 +1,4 @@
+Jeœli chcemy obróciæ nasz obiekt o k¹t ? wokó³ dowolnego punktu (xR,yR), to musimy zastosowaæ trzy przekszta³cenia:
+Sprowadziæ punkt (xR,yR) do pocz¹tku uk³adu wspó³rzêdnych - translacja obiektu o wektor (-xR,-yR)
+Obróciæ wierzcho³ki obiektu o k¹t ? - rotacja wokó³ œrodka uk³adu wspó³rzêdnych.
+Powróciæ do punktu (xR,yR) - translacja o wektor (xR,yR)
